@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Aftersun",
+    "description": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between miniDV footage as she tries to reconcile the father she knew with the man she didn’t.",
+    "genre": ["Drama"],
+    "year": 2022,
+    "rating": 4.5,
+    "runtime": 96,
+    "image": "images/aftersun.png"
+  },
+  {
+    "name": "TAR",
+    "description": "The film, set in the international world of classical music, centers on Lydia Tár, widely considered one of the greatest living composer/conductors and first-ever female chief conductor of a major German orchestra.",
+    "genre": ["Drama"],
+    "year": 2022,
+    "rating": 4.2,
+    "runtime": 158,
+    "image": "images/tar.png"
+  },
+  {
+    "name": "Moonlight",
+    "description": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality.",
+    "genre": ["Coming of Age", "Drama"],
+    "year": 2016, 
+    "rating": 5.0,
+    "runtime": 111,
+    "image": "images/moonlight.png"
+  },
+  {
+    "name": "Decision To Leave",
+    "description": "Hae-Joon, a seasoned detective, investigates the suspicious death of a man on a mountaintop. Soon, he begins to suspect Seo-rae, the deceased’s wife, while being unsettled by his attraction to her.",
+    "genre": ["Mystery", "Drama", "Romance"],
+    "year": 2022,
+    "rating": 4.9,
+    "runtime": 138,
+    "image": "images/decision.png"
+  },
+  {
+    "name": "The Fabelmans",
+    "description": "A coming-of-age story about a young man’s discovery of a shattering family secret and an exploration of the power of movies to help us see the truth about each other and ourselves.",
+    "genre": ["Coming of Age", "Drama"],
+    "year": 2022,
+    "rating": 5.0,
+    "runtime": 151,
+    "image": "images/fabelmans.png"
+  },
+  {
+    "name": "Banshees of Inisherin",
+    "description": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+    "genre": ["Drama"],
+    "year": 2022,
+    "rating": 4.0,
+    "runtime": 114,
+    "image": "images/banshees.png"
+  },
+  {
+    "name": "Carrie",
+    "description": "Carrie White, a shy and troubled teenage girl who is tormented by her high school peers and her fanatically religious mother, begins to use her powers of telekinesis to exact revenge upon them.",
+    "genre": ["Horror/Thriller"],
+    "year": 1976,
+    "rating": 3.0,
+    "runtime": 98,
+    "image": "images/carrie.png"
+  },
+  {
+    "name": "Triangle of Sadness",
+    "description": "Models Carl and Yaya are invited for a luxury cruise with a rogues’ gallery of super-rich passengers. At first, all appears Instagrammable, but the cruise ends catastrophically and the group find themselves marooned on a desert island.",
+    "genre": ["Comedy", "Drama"],
+    "year": 2022,
+    "rating": 3.9,
+    "runtime": 140,
+    "image": "images/triangle.png"
+  },
+  {
+    "name": "After Yang",
+    "description": "When his young daughter’s beloved companion, an android named Yang malfunctions, Jake searches for a way to repair him. In the process, Jake discovers the life that has been passing in front of him, reconnecting with his wife and daughter across a distance he didn’t know was there.",
+    "genre": ["Drama"],
+    "year": 2021,
+    "rating": 3.8,
+    "runtime": 96,
+    "image": "images/after.png"
+  },
+  {
+    "name": "Don't Look Up",
+    "description": "Two low-level astronomers, upon discovering that a meteor will strike the Earth in six months, go on a media tour to try to warn the world but find an unreceptive and unbelieving populace.",
+    "genre": ["Drama", "Comedy"],
+    "year": 2021,
+    "rating": 2.9,
+    "runtime": 145,
+    "image": "images/dont.png"
+  },
+  {
+    "name": "Top Gun: Maverick",
+    "description": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+    "genre": ["Action", "Drama"],
+    "year": 2022,
+    "rating": 4.0,
+    "runtime": 131,
+    "image": "images/topgun.png"
+  },
+  {
+    "name": "Midsommar",
+    "description": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+    "genre": ["Horror/Thriller"],
+    "year": 2019,
+    "rating": 3.8,
+    "runtime": 171,
+    "image": "images/midsommar.png"
+  }
+]
+ 
