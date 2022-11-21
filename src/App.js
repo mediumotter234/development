@@ -197,36 +197,36 @@ function App() {
             <FilterOption
               id="8"
               type="radio"
-              name="5"
-              checked={state.selectedOption === '5'}
+              name=">= 5"
+              checked={state.selectedOption === '>= 5'}
               onChange={handleRadioChange}  
             />
             <FilterOption
               id="9"
               type="radio"
-              name="4"
-              checked={state.selectedOption === '4'}
+              name=">= 4"
+              checked={state.selectedOption === '>= 4'}
               onChange={handleRadioChange}  
             />
             <FilterOption
               id="10"
               type="radio"
-              name="3"
-              checked={state.selectedOption === '3'}
+              name=">= 3"
+              checked={state.selectedOption === '>= 3'}
               onChange={handleRadioChange}  
             />
             <FilterOption
               id="11"
               type="radio"
-              name="2"
-              checked={state.selectedOption === '2'}
+              name=">= 2"
+              checked={state.selectedOption === '>= 2'}
               onChange={handleRadioChange}  
             />
             <FilterOption
               id="12"
               type="radio"
-              name="1"
-              checked={state.selectedOption === '1'}
+              name=">= 1"
+              checked={state.selectedOption === '>= 1'}
               onChange={handleRadioChange}  
             />
           </div>
