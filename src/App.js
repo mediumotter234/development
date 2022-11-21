@@ -231,7 +231,7 @@ function App() {
             />
           </div>
 
-          <div>
+          <div className="Watchlist">
                <p> Other </p>
                 <FilterOption
                   id="13"

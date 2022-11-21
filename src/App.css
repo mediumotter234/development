@@ -19,14 +19,17 @@ body {
 
 .Filters {
   display: flex;
-  column-gap: 40px;
+  column-gap: 60px;
   padding-bottom: 30px;
+}
+
+.Watchlist {
+  width: 100px;
 }
 
 input {
   margin-top: 10px;
 }
-
 
 .SortDropdown {
   margin-top: 18px;
@@ -34,6 +37,8 @@ input {
 .SortDropdown select {
   height: 30px;
 }
+
+
 
 button {
   margin-top: 18px;
