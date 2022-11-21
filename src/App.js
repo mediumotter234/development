@@ -121,7 +121,7 @@ function App() {
 
   const filteredByRating = filteredByGenre.filter((movie) => 
   state.selectedOption === 'none' ? true : 
-    movie.rating >= parseInt(state.selectedOption));
+    movie.rating >= parseInt(state.selectedOption[3]));
 
   const filteredMovies = (filteredByRating.length === 0 && state.selectedOption === 'none') ? movieData : filteredByRating;
 
